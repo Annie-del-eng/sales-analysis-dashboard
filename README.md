@@ -17,4 +17,5 @@ Featuring:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]
+![Dashboard Screenshot](dashboard overview.png)
+
