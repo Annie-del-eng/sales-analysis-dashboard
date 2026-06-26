@@ -15,7 +15,5 @@ Featuring:
 - Power BI Desktop
 - Microsoft Excel
 
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard overview.png)
+  
 
